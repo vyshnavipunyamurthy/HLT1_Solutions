@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    margin:0 auto 0 auto;
+    font-size: 5.625rem;
+    font-family:cursive;
+    
+
+}
+
+
+p{
+    position: relative;
+   
+}
+.menu1{
+    position: absolute;
+    left : 920px;
+    margin-top: 110px;
+    
+}
+.menu2{
+    position: absolute;
+    left : 1020px;
+    margin-top: 110px;
+    
+}
+.menu3{
+    position: absolute;
+    left : 1150px;
+    margin-top: 110px;
+    
+
+}
+.menu4{
+    position: absolute;
+    left : 1250px;
+    margin-top: 110px;
+    
+
+}
+.menu5{
+    position: absolute;
+    left : 1400px;
+    margin-top: 110px;
+   
+}
+
+.name{
+    width:50px;
+    padding: 50px;
+}
+.top-container{
+    background-color:#009DAE;
+    position:relative;
+    height:150px;
+    
+
+}
+.middle-container{
+    background-color: #71DFE7;
+   
+    
+}
+
+.bottom-container{
+    background-color:#C2FFF9 ;
+    
+    
+    
+}
+
+   
+    
+    
+
+
+    
